@@ -1,0 +1,46 @@
+  .quotation {
+    font-style: italic;
+  }
+
+  h1 {
+    font-size: 30px;
+    text-align: center;
+
+  }
+
+  h2 {
+    font-size: 18px;
+    font-style: bold;
+    border-top: 2px black solid;
+    border-bottom: 1px black solid;
+  }
+
+  .subtitle {
+    font-style: italic;
+    text-align: center;
+  }
+
+  .subheader {
+    font-style: italic;
+    font-size:smaller;
+  }
+
+  .rowheader {
+    text-align:center;
+    background-color:black;
+    color:white;
+  }
+
+  td {
+    border: thin gray solid;
+  }
+
+  th {
+    border: thin gray solid;
+    text-transform
+  }
+
+  .highlight {
+    background-color: #e6e6fa;
+  }
+
